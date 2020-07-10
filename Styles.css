@@ -1,0 +1,61 @@
+.blue_color {
+    color: #1912E2;
+}
+
+h1 {
+    font-size: 1.7em;
+} 
+
+body { 
+    font-family: sans-serif;
+    color: #777777;
+    line-height: 26px;
+}
+
+.half-width {
+    width: 50%;
+    max-width: 50%;
+    float: left;
+}
+
+.circ {
+    index: - 1;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.primary-btn {
+    color: white;
+    background-color: #1912E2 ;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+    float: left;
+} 
+
+.container {
+    padding-left: 5%;
+    display: inline-block;
+} 
+
+. experiences {
+    padding:30px;
+    margin: 30px;
+    background-color: rgb(238,251, 255);
+    border-radius: 20px;
+} 
+
+.experience-item {
+    padding: 10px;
+    border-left: 1px solid rba(137, 130, 247,.2);
+} 
+
+.footer {
+   width: 100%;
+} 
+
+
+
+
+°
